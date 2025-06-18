@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内免费直连（支持GPT-4、GPT-4o，无需翻墙）【2025年6月最新】
 
-> **更新日期：2025/06/04**          
+> **更新日期：2025/06/20**          
 
 提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐好用的国内镜像网站，**支持GPT-4，无需翻墙**。助力快速使用 **[ChatGPT 中文版](https://chat.yixiaai.com)**   
-本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
+本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://talk.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 **ChatGPT 中文版**入口：**[https://xsimplechat.com](https://xsimplechat.com)**   
-**ChatGPT 镜像网站**：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**
+**ChatGPT 镜像网站**：**[https://talk.lanjing.pro](https://talk.lanjing.pro)**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://chat.lanjing.pro)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
+**[ChatGPT 中文版](https://talk.lanjing.pro)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户： 
 
 - **中文对话**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -39,7 +39,7 @@
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 微信扫码使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [talk.lanjing.pro](https://talk.lanjing.pro)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.lify.vip](https://chat.yixiaai.com) | GPT-4, GPT-3.5 | 有              | 微信扫码使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [chat.yixia.ai](https://cgn.lify.vip)   | GPT-3.5        | 有              | 微信扫码使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
